@@ -1,6 +1,6 @@
 # Ggggggg gggg Ggggg-ggggg!
 
-This coding challenges comes from (/r/dailyprogrammer)[https://www.reddit.com/r/dailyprogrammer/comments/3x3hqa/20151216_challenge_245_intermediate_ggggggg_gggg/].
+This coding challenges comes from [/r/dailyprogrammer](https://www.reddit.com/r/dailyprogrammer/comments/3x3hqa/20151216_challenge_245_intermediate_ggggggg_gggg/).
 
 We have discovered a new species of aliens! They look like this and are trying to communicate with us using the /r/ggggg subreddit! As you might have been able to tell, though, it is awfully hard to understand what they're saying since their super-advanced alphabet only makes use of two letters: "g" and "G". Fortunately, their numbers, spacing and punctuation are the same.
 
@@ -71,4 +71,4 @@ Your key (and thus message) may end up being completely different than the one p
 
 Just as it annoys us to see someone typing "llliiiiikkkeeee ttttthhhiiiisssss", the Ggggg aliens don't actually enjoy unnecessary verbosity. Modify your encoding script to create a key that results in the shortest possible Ggggg message. You should be able to decode the output using the same decoder used in part 1 (the second sample input/output in part 1 is actually compressed).
 
-Here's a (hint)[https://en.wikipedia.org/wiki/Variable-length_code].
+Here's a [hint](https://en.wikipedia.org/wiki/Variable-length_code).
